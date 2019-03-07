@@ -184,3 +184,17 @@
 
 }
 
+////////////////////////////
+//GALLERY
+
+.gallery{
+
+    display: flex;
+
+    &__photos{
+        width: 100%;
+        display: block;
+    }
+    
+}
+
